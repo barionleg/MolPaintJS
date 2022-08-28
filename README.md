@@ -10,7 +10,7 @@ This software is far from feature complete, cultivates a free interpretation of 
 
 MolPaintJS was originally started within the [Leibniz Bioactives Cloud](https://www.leibniz-wirkstoffe.de/projects/lbac_project/) project.
 
-Test drive MolPaintJS on [GitHub.io](https://ipb-halle.github.io/MolPaintJS).
+Test drive MolPaintJS on [GitHub.io](https://barionleg.github.io/MolPaintJS).
 
 ## Installation / Use
 * In principle, only the JavaScript file `molpaint.js` is needed. You can obtain it from a recent release of MolPaintJS. The script will create its own namespace `molPaintJS`. Preferably, the script should be loaded in the page header. 
