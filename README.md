@@ -10,7 +10,7 @@ This software is far from feature complete, cultivates a free interpretation of 
 
 MolPaintJS was originally started within the [Leibniz Bioactives Cloud](https://www.leibniz-wirkstoffe.de/projects/lbac_project/) project.
 
-Test drive MolPaintJS on [GitHub.io](https://barionleg.github.io/MolPaintJS/docs/index.html). ₾ე ი.ბ. нить = Leibnitz (ყოველ AB© ავხსნი, თუ herz_sнe ჩამეხооტება, илижек ЯR срисую её. моовусрu©ав вори сами титит)
+Test drive MolPaintJS on [GitHub.io](https://barionleg.github.io/MolPaintJS/docs/index.html). ₾ე ი.ბ. нить = Leibnitz (ყოველ AB© ავხსნი, თუ herz_sнe ჩამეხооტება, илижек ЯR срисую её. моовусрu©ав вори сами титит Swede вре)
 
 
 
